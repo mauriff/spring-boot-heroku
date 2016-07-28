@@ -1,0 +1,9 @@
+server:
+    port: 8181
+
+spring:
+    profile: prod
+
+    data:
+        mongodb:
+            database: heroku_3b6p3hm6
