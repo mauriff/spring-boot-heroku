@@ -5,6 +5,7 @@ import org.springframework.data.annotation.Id;
 /**
  * Created by mauriff on 28/07/16.
  */
+
 public class Birra {
 
     public String getId() {
